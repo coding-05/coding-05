@@ -13,8 +13,10 @@ An ambitious Computer Science graduate specializing in cross-platform mobile dev
 A cross-platform React Native mobile application integrating cloud backend pipelines to optimize automotive listing deployments and secure booking state metrics.
 - **Tech Stack:** React Native (Expo), JavaScript, Firebase Authentication, NoSQL Realtime Database, and Cloud Storage.
 
-### 🛢️ [2. Store-Commerce - Monolithic E-Store] https://github.com/coding-05/store-commerce
+### 🛢️ [2. Store-Commerce - E-Store] https://github.com/coding-05/store-commerce
 A complete full-stack e-commerce architecture utilizing secure object-oriented data abstractions to manage transactional user states and relational table operations.
+*Project Type:** Collaborative University Coursework 
+* 🛠️ **My Engineering Focus:** Frontend UI Component Architecture, Client-Side Data Integration, and Validation Workflow Management.
 - **Tech Stack:** PHP 8.x, MySQL (via secure PDO Prepared Statements), Vanilla JavaScript ES6, and Custom CSS3 layouts.
 
 ### 📡 [3. DeepShield Web Vulnerability Lab] https://github.com/coding-05/DeepShieldApi
