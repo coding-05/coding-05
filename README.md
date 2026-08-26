@@ -13,15 +13,15 @@ An ambitious Computer Science graduate specializing in cross-platform mobile dev
 A cross-platform React Native mobile application integrating cloud backend pipelines to optimize automotive listing deployments and secure booking state metrics.
 - **Tech Stack:** React Native (Expo), JavaScript, Firebase Authentication, NoSQL Realtime Database, and Cloud Storage.
 
-### 🛢️ [2. Store-Commerce - Monolithic E-Store]
+### 🛢️ [2. Store-Commerce - Monolithic E-Store] https://github.com/coding-05/store-commerce
 A complete full-stack e-commerce architecture utilizing secure object-oriented data abstractions to manage transactional user states and relational table operations.
 - **Tech Stack:** PHP 8.x, MySQL (via secure PDO Prepared Statements), Vanilla JavaScript ES6, and Custom CSS3 layouts.
 
-### 📡 [3. DeepShield Web Vulnerability Lab]
+### 📡 [3. DeepShield Web Vulnerability Lab] https://github.com/coding-05/DeepShieldApi
 A full-stack Security Operations Center (SOC) dashboard built to simulate common web threats and demonstrate enterprise-grade server-side remediation.
 - **Tech Stack:** Raw PHP, MySQL (SQLi-vulnerable login strings vs. secure Prepared Statements), Vanilla JavaScript data filtering, and custom HTML/CSS tracking feeds.
 
-### 🎵 [4. MoodMelody - Mood-Based Recommender]
+### 🎵 [4. MoodMelody - Mood-Based Recommender] https://github.com/coding-05/web
 An interactive frontend web application using state-switching logic to match user emotions with curated cyberpunk playlist data models.
 - **Tech Stack:** Semantic HTML5, Advanced CSS3 Neon Styling, and Vanilla JavaScript ES6 DOM manipulation.
 
