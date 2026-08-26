@@ -9,7 +9,7 @@ An ambitious Computer Science graduate specializing in cross-platform mobile dev
 
 ## 📁 Featured Repositories
 
-### 📱 [1. CarRent - Mobile P2P Rental System]
+### 📱 [1. CarRent - Mobile P2P Rental System] https://github.com/AchrafAbbadi08/CarRent-v1.0.0
 A cross-platform React Native mobile application integrating cloud backend pipelines to optimize automotive listing deployments and secure booking state metrics.
 - **Tech Stack:** React Native (Expo), JavaScript, Firebase Authentication, NoSQL Realtime Database, and Cloud Storage.
 
