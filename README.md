@@ -19,7 +19,7 @@ During my internship at **Fondation Mohammed VI**, I contributed to the redesign
 - 📊 Connected the dashboard to real backend data
 - 📤 Added universal + per-row Excel export to all data tables
 
-→ [**View showcase & code snippets**](https://github.com/YOUR_USERNAME/fm6-internship-showcase)
+→ [**View showcase & code snippets**](https://github.com/coding-05/fm6-internship-showcase)
 
 ### 📱 [ CarRent - Mobile P2P Rental System] https://github.com/coding-05/CarRent/tree/main
 A cross-platform React Native mobile application integrating cloud backend pipelines to optimize automotive listing deployments and secure booking state metrics.
