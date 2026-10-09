@@ -5,7 +5,7 @@ An ambitious Computer Science graduate specializing in cross-platform mobile dev
 
 - 🚀 Currently refining full-stack software architectures and exploring mobile security frameworks.
 - 🛠️ Core Tech Stack: **React Native | Firebase | PHP (PDO) | MySQL | JavaScript (ES6+) | Java | C/C++**
-- 📬 Contact: hajarousaid15@gmail.com | Ready for Graduate Research Opportunities (Spring/Fall 2027)
+- 📬 Contact: hajarousaid15@gmail.com
 
 ## 📁 Featured Repositories
 ### 🏢 FM6 Education — Frontend Modernization
